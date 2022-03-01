@@ -21,13 +21,13 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://t.me/MovieHub_2k22'>𝕄𝕠𝕧𝕚𝕖 ℍ𝕌𝔹</a>
 
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+<b>DEV⚡:</b>
+- <a href='https://t.me/akhil_tg'>ᴀᴋʜɪʟ ᴛɢ</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/MovieHub_2k22'>𝕄𝕠𝕧𝕚𝕖 ℍ𝕌𝔹</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
