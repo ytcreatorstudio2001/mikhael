@@ -31,6 +31,6 @@ async def password(bot, update):
         text = "Sorry... Failed To Create Password, Because Limit is 1 to 100."
     else:
         random_value = "".join(random.sample(password, limit))
-        text = f"**Limit :-** `{str(limit)}`.\n**Password :-** `{random_value}`**\n\nJoin @JOSPSupport",
-        reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton('join projects channel', url='https://telegram.me/josprojects')]])
+        text = f"**Limit :-** `{str(limit)}`.\n**Password :-** `{random_value}`**\n\nJoin @MovieHub_2k22",
+        reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton('join projects channel', url='https://t.me/MovieHub_2k22')]])
     await message.edit_text(text, True)
